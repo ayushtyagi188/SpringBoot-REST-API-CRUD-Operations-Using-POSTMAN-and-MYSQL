@@ -1,0 +1,3 @@
+com\ayush\RestApiApplication.class
+com\ayush\model\User.class
+com\ayush\repository\UserRepo.class
